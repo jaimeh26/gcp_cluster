@@ -1,9 +1,9 @@
 terraform {
   cloud {
-    organization = "gd-jackstraw"
+    organization = "jaimeh26"
 
     workspaces {
-      name = "gcp-test-examples"
+      name = "gcp_cluster"
     }
   }
 }
